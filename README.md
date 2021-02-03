@@ -18,7 +18,7 @@
 ## 設計書
 
 
-## チャレンジ要素一覧(AI教養コース)
+## 機能一覧(AI教養コース)
 https://docs.google.com/spreadsheets/d/1ehIJwBkLWkL2O4b_HbsERVuS3RTp1RcrhmKpIta3J8w/edit?usp=sharing
 
 ## 開発環境
